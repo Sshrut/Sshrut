@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Gmail](shrutshah734@gmail.com) [LinkedIn](https://www.linkedin.com/in/shrut-shah-22260b1a4/)
+[Gmail](shrutshah734@gmail.com) ![LinkedIn](https://www.linkedin.com/in/shrut-shah-22260b1a4/)
 <!--
 **Sshrut/Sshrut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
