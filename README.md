@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[Gmail](shrutshah734@gmail.com),  [LinkedIn](https://www.linkedin.com/in/shrut-shah-22260b1a4/)
 
 Here are some ideas to get you started:
 
