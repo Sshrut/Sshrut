@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[Gmail](shrutshah734@gmail.com)
 <!--
 **Sshrut/Sshrut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
