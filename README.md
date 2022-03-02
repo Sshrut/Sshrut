@@ -3,7 +3,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Spam classifier Project.
 - 🌱 I’m currently learning **best practices for Software Engineering**.
 - 👯 I’m looking to collaborate on any **Client -Server Project**
 - 💬 Ask me about **Python** or **ML/DL concepts**.
