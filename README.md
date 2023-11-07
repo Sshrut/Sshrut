@@ -3,7 +3,7 @@
 
 Brief introduction about me:
 
-- I'm currently working as a Cloud Intern (AWS, Python) and seeking full-time roles as a Software Engineer, Cloud Engineer, and Backend Developer roles.
+- I'm currently working as a Cloud Intern (AWS, Python, Terraform) and seeking full-time roles as a Software Engineer, Cloud Engineer, and Backend Developer roles.
   
 - 🌱 I’m currently learning **best practices for Software Engineering/ Cloud Engineering**.
 
