@@ -4,6 +4,8 @@ I am a Software Engineer with hands-on experience in backend development, cloud 
 - 🌐 **Previous Roles**: Experience across software engineering, cloud role, and data science projects
 - 📚 **Education**: M.S. in Computer Science - California State University, Sacramento
   
+💼 **Current Work**  
+Building a RAG application with LangChain and ChromaDB to automate medical document classification, including a secure GPT assistant with role-based access control and a high-throughput async system processing 1000+ medical documents per hour.
 
 ### 🌱 What I’m Learning
 
